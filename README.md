@@ -29,8 +29,8 @@ Motivasi saya sederhana: *ingin membangun solusi berbasis data yang bermanfaat, 
 ### ML Concepts
 - 📌 Regression  
 - 📌 Classification  
-- 📌 Clustering (in progress)  
-- 📌 Neural Networks (basic)  
+- 📌 Clustering 
+- 📌 Neural Networks  
 - 📌 Train/Validation/Test Workflow  
 - 📌 Data Preprocessing  
 
@@ -82,23 +82,22 @@ Motivasi saya sederhana: *ingin membangun solusi berbasis data yang bermanfaat, 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=<adityatangmar>&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<adityatangmar>&layout=compact&theme=default" height="165" />
 </p>
 
 ---
 
 ## 🌐 Find Me & Learning Platforms
 
-- 📘 **Kaggle:** https://kaggle.com/<your-kaggle>  
-- 🎓 **Coursera:** *link ke profil atau course yang diambil*  
-- 🤝 **LinkedIn:** *optional*  
-- 🗂️ **Portfolio Repo:** *link repo AI/ML*
+- 📘 **Kaggle:** https://www.kaggle.com/adityatangmar  
+- 🎓 **Dicoding:** https://www.dicoding.com/users/adityatangmar/academies  
+- 🤝 **LinkedIn:** https://www.linkedin.com/in/aditya-tangkas-mardatila-138455289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAnkbxmaGToOXtbiHR9cO0g%3D%3D 
 
 ---
 
 ## 🌟 Closing Note
 Saya masih terus belajar dan berkembang.  
-Setiap commit, setiap notebook, dan setiap proyek kecil adalah bagian dari perjalanan saya menjadi **AI/ML practitioner** yang solid.  
+Setiap commit, setiap notebook, dan setiap proyek kecil adalah bagian dari perjalanan saya menjadi **AI/ML engineering** yang solid.  
 Terima kasih sudah mampir! 🚀  
 
